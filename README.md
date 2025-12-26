@@ -1,4 +1,4 @@
-## Hi, I'm José
+## Hi
 
 Backend-focused developer working mainly with Java and the Spring ecosystem.
 I enjoy building reliable systems and improving them through iteration.
